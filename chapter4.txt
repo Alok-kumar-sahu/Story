@@ -1,0 +1,1 @@
+By this sample test text, we just testing branching-merging.
