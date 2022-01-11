@@ -1,1 +1,2 @@
 This is another test text file.
+Next there would be nested text files.
